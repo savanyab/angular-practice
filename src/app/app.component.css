@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Lobster', cursive;
+}
+
+p, button {
+    font-family: 'Noto Serif SC', serif;
+}
+
+.blueBg {
+    background-color: aquamarine;
+} 
+
+.redBg {
+    background-color: red;
+}
